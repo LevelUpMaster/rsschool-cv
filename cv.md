@@ -57,7 +57,7 @@ Don`t have any)
 ---
 ## Projects
 
-### [CV](https://github.com)
+### [my CV](https://levelupmaster.github.io/rsschool-cv/cv)
 *my own CV*
 
 ---
